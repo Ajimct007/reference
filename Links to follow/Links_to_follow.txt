@@ -1,0 +1,16 @@
+1) Interactive Geospatial Map                            -- https://medium.com/@adityakuche/interactive-geospatial-map-42a46be1e49f
+2) Create geoMaps using graph objects and geoJSON-plotly -- https://medium.com/analytics-vidhya/create-geomaps-using-graph-objects-and-geojson-plotly-dcfb4067e3a6
+3) The Art of Aligning Data Frames in Pandas and SQL     -- https://medium.com/aatomz-research/the-art-of-aligning-data-frames-in-pandas-and-sql-50ed271753e1
+4) Data visualization with Python                        -- https://medium.com/@ogwudasamuel/data-visualization-with-python-e759e9cbcfab
+5) Seaborn charts that every Data Scientist Knows!       -- https://medium.com/@prathamesh.gadekar/seaborn-charts-that-every-data-scientist-knows-7274ac8bc773
+6) Exploring Geographic Data Visualization with Folium   -- https://medium.com/@muflih.hd12/exploring-geographic-data-visualization-with-folium-398fdba75f5a
+7) Data Visualization                                    -- https://khorkeanteng.medium.com/data-visualization-fcd74a882ca
+8) How to make a gif map using Python, 
+   Geopandas and Matplotlib                              -- https://towardsdatascience.com/how-to-make-a-gif-map-using-python-geopandas-and-matplotlib-cd8827cefbc8
+9) GeoPandas: Geo-Graphical Visualization🗺              -- https://medium.com/@VK_Venkatkumar/geopandas-geo-graphical-visualization-60a1e8bbe507
+10) 7 Ways to Filter Data Like a Pro in Pandas           -- https://medium.com/@annettedolph/7-ways-to-filter-data-like-a-pro-in-pandas-9e0e20d336d6
+11) Tricking Data Science (Book)                         -- https://bextuychiev.github.io/tricking-data-science/README.html
+12) Beginner Friendly Viz with Plotly                    -- https://www.kaggle.com/code/azizozmen/beginner-friendly-viz-with-plotly#WAY-TO-REINVENT-YOURSELF
+13) 500+ AI Machine learning Deep learning 
+    Computer vision NLP Projects with code               -- https://www.kaggle.com/discussions/getting-started/270285
+14) 290+ Machine Learning Projects with Python           -- https://medium.com/coders-camp/230-machine-learning-projects-with-python-5d0c7abf8265
