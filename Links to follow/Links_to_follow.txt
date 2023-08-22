@@ -14,3 +14,7 @@
 13) 500+ AI Machine learning Deep learning 
     Computer vision NLP Projects with code               -- https://www.kaggle.com/discussions/getting-started/270285
 14) 290+ Machine Learning Projects with Python           -- https://medium.com/coders-camp/230-machine-learning-projects-with-python-5d0c7abf8265
+15) Mapping Geograph Data in Python                      -- https://towardsdatascience.com/mapping-geograph-data-in-python-610a963d2d7f
+16) Geospatial Data Ingestion and Visualization 
+    in Geopandas                                         -- https://medium.com/@asimbanskota/geospatial-learning-series-3091dd607a7f
+17) p-value                                              -- https://medium.com/@maheshhkanagavell/p-value-fdf3c6ec09ee
