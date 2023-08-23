@@ -18,3 +18,32 @@
 16) Geospatial Data Ingestion and Visualization 
     in Geopandas                                         -- https://medium.com/@asimbanskota/geospatial-learning-series-3091dd607a7f
 17) p-value                                              -- https://medium.com/@maheshhkanagavell/p-value-fdf3c6ec09ee
+18) Python Libraries for Lazy Data Scientists            -- https://levelup.gitconnected.com/python-libraries-for-lazy-data-scientists-c1287eb794ec
+19) 200+ Python and Data Science Tips — Covering Pandas, 
+    NumPy, ML Basics, Sklearn, Jupyter, and More.        -- https://medium.datadriveninvestor.com/200-python-and-data-science-tips-covering-pandas-numpy-ml-basics-sklearn-jupyter-and-more-b657f039e89e
+
+20) Creating a Dashboard for MNIST Dataset Visualization 
+    and Analysis Using Taipy                             -- https://medium.com/@visheshtaposthali/creating-a-dashboard-for-mnist-dataset-visualization-and-analysis-using-taipy-92530049c6d
+
+21) Data Viz is its own language                         -- https://medium.com/@halleyc/data-viz-is-its-own-language-2ccdd213ed3e
+22) So, which ML Algorithm to use?!                      -- https://medium.com/@aaabulkhair/so-which-ml-algorithm-to-use-d2484239f448
+23) Bring Colors to your Data Frames                     -- https://medium.com/@syncwithdanish/bring-colors-to-your-data-frames-cfb7707259a6
+24) 7 Ways to Filter Data Like a Pro in Pandas           -- https://medium.com/@annettedolph/7-ways-to-filter-data-like-a-pro-in-pandas-9e0e20d336d6
+25) Dockerize Your Dash App                              -- https://medium.com/@yahyasghiouri1998/dockerize-your-dash-app-f502275475fa
+26) Compute the distance matrix of a set of 
+    sites from their coordinates in Python               -- https://medium.com/@carlosjuribe/compute-the-distance-matrix-of-a-set-of-sites-from-their-coordinates-in-python-d5fc92a0ba9e
+
+27) Implementing, solving and visualizing the 
+    Traveling Salesman Problem with Python               -- https://medium.com/@carlosjuribe/plan-optimal-trips-automatically-with-python-and-operations-research-models-part-2-fc7ee8198b6c
+
+28) GeoJSON tutorial for beginners                       -- https://medium.com/@dmitry.sobolevsky/geojson-tutorial-for-beginners-ce810d3ff169
+
+29) “Harnessing Geospatial Insights: Unleashing 
+    Geopandas and OpenStreetMap for 
+    Advanced Geospatial Analysis”                        -- https://medium.com/@iamsaurabhchikhale/harnessing-geospatial-insights-unleashing-geopandas-and-openstreetmap-for-advanced-geospatial-cec2991b55cb
+
+30) 100 Remote Sensing Applications                      -- https://eroglumit.medium.com/100-remote-sensing-applications-127abd7159ba
+31) Biodiversity Applications of Airborne 
+    Imaging Systems                                      -- https://eroglumit.medium.com/biodiversity-applications-of-airborne-imaging-systems-4f62681520b3
+32) Strategies to Turn Data into Insights                -- https://medium.com/@patrick_nguyen_74695/strategies-to-turn-data-into-insights-36df5de97a50
+33) Jupyter Notebook Shortcuts                           -- https://towardsdatascience.com/jypyter-notebook-shortcuts-bf0101a98330
